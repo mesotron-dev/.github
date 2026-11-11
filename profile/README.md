@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/SYSTEM_STATUS-40%25_OPERATIONAL-yellowgreen?style=for-the-badge&color=0f3d0f&labelColor=black" />
 <img src="https://img.shields.io/badge/MODE-FOUNDATION_BUILD-blue?style=for-the-badge&color=005cc5&labelColor=black" />
 
-### Open Source Studio • Systems in Python • Rust • Elixir * Go
+### Open Source Studio • Systems in Python • Rust • Elixir • Go
 
 <strong>[ ENTER DOSSIER → <a href="https://mesotron.dev">mesotron.dev</a> ] (loading…)</strong>
 
